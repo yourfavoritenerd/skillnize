@@ -24,7 +24,7 @@
             <!-- Custom CSS -->
             <link rel="stylesheet" href="style.css">
         </head>
-        
+
     <body>
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -50,7 +50,7 @@
                     <p class="fxt-paragraph">Modernize your skills!</p>
                     <div class="fxt-buttons">
                         <a href="#fxt-page-content" class="btn-toggle fxt-btn fxt-btn-ghost" id="triger-page-content">Mais informações</a>
-                        
+
                     </div>
                     <div class="fxt-socials">
                         <ul>
@@ -90,10 +90,10 @@
                                     <h2 class="content-title">Contacte-nos</h2>
                                 </div>
                             </div>
-                            
+
                             <div class="fxt-contact-address-wrap">
                                 <div class="translate-bottom delay-1600">
-                                
+
                                     <div class="fxt-address-box">
                                         <div class="item-icon">
                                             <i class="flaticon-email"></i>
@@ -103,7 +103,7 @@
                                             <div class="item-text">skillnize@skillnize.com</div>
                                         </div>
                                     </div>
-                                    
+
                                 </div>
                             </div>
                         </div>
